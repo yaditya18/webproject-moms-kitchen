@@ -1,0 +1,93 @@
+.sidebar{
+    background: linear-gradient(142.87deg, #797572 3.03%, rgba(249, 249, 249, 0.03) 112.16%);
+    width:400px;
+    height:6400px;
+    left:0px;
+    padding:0px 0px 0px 0px;
+    z-index: 0;
+}
+.menu{
+    position:absolute;
+    top:-30px;
+    left:800px;
+}
+.non_veg{
+    position: absolute;
+    top:150px;
+    left:500px;
+ 
+}
+
+.rotis_Parathas{
+    position: absolute;
+    top:1890px;
+    left:900px;
+
+}
+.veg{
+    position: absolute;
+    top:2730px;
+    left:500px;
+
+}
+
+.breakfast{
+    position: absolute;
+    top:4210px;
+    left:900px;
+
+}
+
+.sweets{
+    position: absolute;
+    top:5040px;
+    left:500px;
+
+}
+.beverages{
+    position: absolute;
+    top:5580px;
+    left:900px;
+
+}
+ul{
+    list-style-type:none;
+    list-style-position: outside;
+}
+li{
+    padding:10px 0px;
+    font-size: 20px;;
+}
+li.main{
+    font-family: 'Satisfy', cursive;
+    background-color: rgba(0, 0, 0, 0.801);
+    color:white;
+    font-size: 25px;
+}
+#item:hover{
+    cursor:pointer;
+}
+
+.side-image{
+    position:absolute;
+    top:00px;
+    left:1200px;
+    height:1000px;
+}
+.veg_side_images{
+    position:absolute;
+    top:2870px;
+    left:900px;
+}
+
+.side_south{
+    position:absolute;
+    top:4300px;
+    left:440px;
+}
+
+.sweet_image{
+    position:absolute;
+    top:5070px;
+    left:1070px;
+}
